@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+/* Simple fibonacci program... not sure the max size you can enter lol I learned a lot setting this up.
+I had no idea how to do it */
+
 int main () {
 
     int num, t1 = 0, t2 = 1, nextTerm = 0;
